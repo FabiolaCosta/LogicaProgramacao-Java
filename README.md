@@ -9,10 +9,11 @@ Escreva um programa em Java em que o usuário informe o seu nome e exiba a mensa
 ### 📝 3. Exercício 
  Escreva um programa em Java em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem "Olá, [NomeDoUsuario], sua idade é [idade]".
 
-por o print
-
  ### 📝 4. Exercício
- Considerando a figura acima, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. Crie um arquivo para cada fórmula e poste os  arquivos no GitHub. Link do repositório abaixo. Considerando a figura acima, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável.
+ Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. Crie um arquivo para cada fórmula e poste os  arquivos no GitHub. Link do repositório abaixo. Considerando a figura acima, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável.
+
+![Exercicio4](https://user-images.githubusercontent.com/110692074/200823780-5bf220db-e2ca-488b-b440-e6ef67cf8a3b.png)
+
 
  ### 📝 5. Exercício
  Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
