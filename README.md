@@ -1,4 +1,4 @@
-# Hora de Codar (mas em JAVA)!
+# Hora de Codar (mas em JAVA)!  <img align="center" alt="Fabiola-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 ### 📝 1. Exercício
  Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão". Exiba p valor para o usuário.
