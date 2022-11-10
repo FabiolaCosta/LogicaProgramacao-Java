@@ -7,16 +7,16 @@ public class Exercicio8{
         System.out.println("Atividades Java\n");
         //Atividade 8
         System.out.println("Ativ 7\n");
-        int n1, n2, div;
+        double n1, n2, div;
         
         System.out.println("Informe o 1° número:");
-        n1 = teclado.nextInt();
+        n1 = teclado.nextDouble();
         System.out.println("Informe o 2° número:");
-        n2 = teclado.nextInt();
+        n2 = teclado.nextDouble();
 
         while(n2 <=0){
         System.out.println("Por favor, informe um número maior que 0\n Informe o 2° número novamente:");
-        n2 = teclado.nextInt();
+        n2 = teclado.nextDouble();
         }
 
         div = n1 / n2;
