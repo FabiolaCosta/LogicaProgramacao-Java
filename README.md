@@ -40,6 +40,7 @@ Faça um programa para ler 3 valores (considere que não serão informados valor
 Escreva um algoritmo para imprimir os números de 1 (inclusive) a 10 (inclusive) em ordem decrescente.
 
  ### 📝 13. Exercício
+  Faça um algoritmo que calcule e escreva a média aritmética dos números inteiros entre 15 (inclusive) e 100 (inclusive).
  
   ### 📝 14. Exercício
   Faça um algoritmo que calcule e escreva a média aritmética dos dois números inteiros informados pelo usuário e todos os números inteiros entre eles. Considere que o primeiro sempre será menor que o segundo.
